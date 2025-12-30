@@ -9,6 +9,13 @@ It extracts mock/public clinical data, performs automated data quality checks (m
 - Automate basic data quality checks for clinical trial datasets.
 - Visualize key metrics such as missing data %, visit‑wise queries, and site‑level deviations.
 - Demonstrate how SQL, Python, and BI tools can support Clinical Data Management (CDM) workflows.
+- ## Tech Stack
+
+- **Languages**: Python, SQL
+- **Libraries**: pandas, numpy, matplotlib / plotly
+- **Tools**: Power BI or Tableau, Excel
+- **Data**: Mock or public clinical trial datasets (e.g., from ClinicalTrials.gov)
+
 
 
 
