@@ -4,5 +4,11 @@ An end‑to‑end pipeline using SQL, Python, and BI tools to monitor and visual
 
 This project simulates an AI‑assisted clinical data management workflow for clinical trials.  
 It extracts mock/public clinical data, performs automated data quality checks (missing values, protocol deviations, visit‑wise issues), and presents results in an interactive dashboard for data review teams.
+## Objectives
+
+- Automate basic data quality checks for clinical trial datasets.
+- Visualize key metrics such as missing data %, visit‑wise queries, and site‑level deviations.
+- Demonstrate how SQL, Python, and BI tools can support Clinical Data Management (CDM) workflows.
+
 
 
