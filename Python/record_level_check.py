@@ -1,5 +1,7 @@
-import pandas as pd
+# Phase 1: Structural and reliability checks to determine if the dataset
+# is safe to use for downstream clinical validation
 
+import pandas as pd
 # Load processed clinical data
 df = pd.read_csv("../data/processed/clinical_trial_processed.csv")
 
