@@ -23,10 +23,9 @@ python/ # Python scripts for extraction, cleaning, analysis<br>
 dashboard/ # BI dashboard files (Power BI / Tableau)<br>
 docs/ # Documentation and notes<br>
 
-## How to run the project !
-1: Clone the repository : git clone https://github.com/khushi869023-cdm/clinical-trial-data-integrity-dashboard.git
-2: Set up python requirements 
-3: 
+
+
+
 
 
   
