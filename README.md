@@ -1,5 +1,5 @@
 # cdisc-aware-clinical-data-compliance-checker
-An end‑to‑end pipeline using SQL, Python, and BI tools to monitor and visualize data quality issues in mock clinical trial datasets.
+An end‑to‑end pipeline using SQL, Python, and BI tools to monitor and visualize data quality issues in mock clinical trial datasets.(Prototype)
 ## Overview
 
 This project simulates an AI‑assisted clinical data management workflow for clinical trials.  
