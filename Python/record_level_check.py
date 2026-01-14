@@ -3,7 +3,7 @@
 
 import pandas as pd
 # Load processed clinical data
-df = pd.read_csv("../data/processed/clinical_trial_processed.csv")
+df = pd.read_csv("../clinical_trial_processed.csv")
 
 # Define critical CDM fields
 critical_fields = [
